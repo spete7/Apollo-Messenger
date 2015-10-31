@@ -1,0 +1,15 @@
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\bin\Release\SQLDatabase.exe.config
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\bin\Release\SQLDatabase.exe
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\bin\Release\SQLDatabase.pdb
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\obj\Release\SQLDatabase.CreateAccount.resources
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\obj\Release\SQLDatabase.Home_Screen.resources
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\obj\Release\SQLDatabase.Login.resources
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\obj\Release\SQLDatabase.Properties.Resources.resources
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\obj\Release\SQLDatabase.csproj.GenerateResource.Cache
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\obj\Release\SQLDatabase.exe
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\obj\Release\SQLDatabase.pdb
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\obj\Release\SQLDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\bin\Release\SQLDatabase.exe.manifest
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\bin\Release\SQLDatabase.application
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\obj\Release\SQLDatabase.exe.manifest
+C:\Users\Peter\Perforce\spete7_Peter-PC_169\SQLDatabase\SQLDatabase\obj\Release\SQLDatabase.application
